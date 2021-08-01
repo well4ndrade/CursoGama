@@ -1,0 +1,7 @@
+C:\Users\wesle\source\repos\A04TabuadaDotNetFramework\A04TabuadaDotNetFramework\bin\Debug\A04TabuadaDotNetFramework.exe.config
+C:\Users\wesle\source\repos\A04TabuadaDotNetFramework\A04TabuadaDotNetFramework\bin\Debug\A04TabuadaDotNetFramework.exe
+C:\Users\wesle\source\repos\A04TabuadaDotNetFramework\A04TabuadaDotNetFramework\bin\Debug\A04TabuadaDotNetFramework.pdb
+C:\Users\wesle\source\repos\A04TabuadaDotNetFramework\A04TabuadaDotNetFramework\obj\Debug\A04TabuadaDotNetFramework.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\A04TabuadaDotNetFramework\A04TabuadaDotNetFramework\obj\Debug\A04TabuadaDotNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\A04TabuadaDotNetFramework\A04TabuadaDotNetFramework\obj\Debug\A04TabuadaDotNetFramework.exe
+C:\Users\wesle\source\repos\A04TabuadaDotNetFramework\A04TabuadaDotNetFramework\obj\Debug\A04TabuadaDotNetFramework.pdb
