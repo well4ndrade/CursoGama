@@ -1,0 +1,7 @@
+C:\Users\wesle\source\repos\DesafioDotNetFramework\DesafioDotNetFramework\bin\Debug\DesafioDotNetFramework.exe.config
+C:\Users\wesle\source\repos\DesafioDotNetFramework\DesafioDotNetFramework\bin\Debug\DesafioDotNetFramework.exe
+C:\Users\wesle\source\repos\DesafioDotNetFramework\DesafioDotNetFramework\bin\Debug\DesafioDotNetFramework.pdb
+C:\Users\wesle\source\repos\DesafioDotNetFramework\DesafioDotNetFramework\obj\Debug\DesafioDotNetFramework.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\DesafioDotNetFramework\DesafioDotNetFramework\obj\Debug\DesafioDotNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\DesafioDotNetFramework\DesafioDotNetFramework\obj\Debug\DesafioDotNetFramework.exe
+C:\Users\wesle\source\repos\DesafioDotNetFramework\DesafioDotNetFramework\obj\Debug\DesafioDotNetFramework.pdb
